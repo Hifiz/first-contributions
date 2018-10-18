@@ -8414,3 +8414,4 @@ Orandi Harris
 - [Carlo Martín](https://github.com/CarloMtzMartin) 
 - [Mustafa Ismail](https://github.com/mustafaismail22) 
 - [a-ray](https://github.com/a-ray) 
+- [Max Paczkowski](https://github.com/Hifiz)
